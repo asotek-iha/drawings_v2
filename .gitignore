@@ -1,0 +1,26 @@
+# SolidWorks temp / lock files
+~$*
+*.tmp
+*.bak
+*.old
+*_backup.*
+
+# SolidWorks generated
+*.SLDPRT.1
+*.SLDASM.1
+*.SLDDRW.1
+*.CACHE.*
+SW*.tmp
+
+# eDrawings cache
+*.easm.cache
+*.eprt.cache
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor / IDE
+.vscode/
+.idea/
